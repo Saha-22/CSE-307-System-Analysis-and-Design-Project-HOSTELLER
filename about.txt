@@ -1,0 +1,37 @@
+Project Name: Hosteller - Student Hostel Finder
+
+Description:
+
+Hosteller is a user-friendly web platform built with Wix.com that empowers students in Dhaka city to streamline their hostel search experience. It provides a centralized hub for students to:
+
+- Effortlessly Browse Available Hostels: Explore a comprehensive listing of hostels in Dhaka, complete with detailed descriptions, amenities, photos, and   contact information.
+
+- Connect with Hostel Owners Directly: Contact hostel owners via the platform to inquire about vacancies, pricing, and specific details, facilitating a direct communication channel.
+
+
+Benefits for Students:
+
+- Simplified Hostel Search: Saves time and effort by eliminating the need to visit numerous hostels or search through scattered listings.
+- Informed Decisions: Gain a clear understanding of available hostel options, enabling students to make informed choices based on their needs and preferences.
+- Streamlined Communication: Direct communication with hostel owners fosters a more efficient inquiry and booking process.
+
+
+Benefits for Hostel Owners:
+
+- Increased Visibility: Reach a wider student audience through a targeted platform dedicated to student housing in Dhaka.
+- Simplified Listings Management: Easily add, update, and manage hostel information, including photos and amenities, directly on the Wix.com platform.
+- Convenient Lead Generation: Directly receive inquiries and booking requests from interested students through the platform.
+
+
+Technologies Used:
+
+- Platform: Wix.com for website creation and hosting
+- Frontend: Custom HTML, CSS, and JavaScript for enhanced user experience
+- Backend: Wix's integrated backend services for managing data
+- Database: Wix's inbuilt database solution for storing listings and user data
+- Hosting: Wix.com
+
+
+Project Status:
+
+- Currently in development
